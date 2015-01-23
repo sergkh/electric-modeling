@@ -1,2 +1,1 @@
-# electric-modeling
-Currency modeling application
+# Currency modeling application
